@@ -1,0 +1,12 @@
+Manchester United - Manchester city;1
+Chelsea - Fullham;2
+Mallorca - Celta Vigo;3
+Mainz - Wolfsburg;4
+Ludogorets - Cherno More;5
+Jordan - Bahrein;6
+Hajduk - Rijeka;7
+Lyon - Rennes;8
+Varaždin - Sl Belupo;9
+Once Municipal - CD Aguila;10
+Rio Branco AC ES - Desportiva Ferroviaria ES;11
+MC Oran - MC Alger;12

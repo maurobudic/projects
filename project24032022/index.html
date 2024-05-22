@@ -1,0 +1,157 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/themes/smoothness/jquery-ui.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js"></script>
+    <title>projekt</title>
+    <style>
+ .klubovi {
+    border: 1px solid #eee;
+    width: 300px;
+    min-height: 20px;
+    list-style-type: none;
+    margin: 0;
+    padding: 5px 0 0 0;
+    float: left;
+    margin-right: 10px;
+  }
+  .klubovi li {
+    margin: 0 5px 5px 5px;
+    padding: 5px;
+    font-size: 1.2em;
+    width: 260px;
+  }
+
+  #realkrug { width: 100px; height: 100px; padding: 0.5em; float: right; margin: 10px 10px 10px 0;}
+  #barcakrug { width: 100px; height: 100px; padding: 0.5em; float: right; margin: 10px 10px 10px 0;}
+  #mankrug { width: 100px; height: 100px; padding: 0.5em; float: right; margin: 10px 10px 10px 0;}
+  #bayernkrug { width: 100px; height: 100px; padding: 0.5em; float: right; margin: 10px 10px 10px 0;}
+  #realpodloga { width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px;}
+  #barcapodloga { width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px;}
+  #manpodloga { width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px;}
+  #bayernpodloga { width: 150px; height: 150px; padding: 0.5em; float: left; margin: 10px;}
+ 
+ #opener{
+     margin-top: 50px;
+     margin-right: 1000px;
+ }
+ .boja{
+     background-color: aqua;
+ }
+    </style>
+</head>
+<body>
+    <div id="accordion">
+        <ul>
+            <li><a href="#tabs-1">Real Madrid C.F.</a></li>
+            <li><a href="#tabs-2">FC Barcelona</a></li>
+            <li><a href="#tabs-3">FC Bayern München</a></li>
+            <li><a href="#tabs-4">Manchester City F.C.</a></li>
+        </ul>
+
+        <div id="tabs-1"> Real Madrid (šp.: Real Madrid Club de Fútbol), španjolsko je športsko društvo, uz Barcelonu najznačajnije u državi, te jedno od najvećih i najpoznatijih u svijetu. Sjedište mu je smješteno u glavnom gradu Španjolske, Madridu. Službeno je osnovan 1902. pod imenom Madrid CF. Godine 1920. od španjolskog kralja Alfonsa XIII. dobiva naziv Real što na hrvatskom znači kraljevski. Nogometni klub, Real Madrid CF, prema FIFI je proglašen najboljim klubom 20. stoljeća. To društvo pamti velike rezultate još jednog Real Madrida, onog košarkaškog, punog imena Real Madrid Baloncesto. Adresa Reala je Avenida de Concha Espina 1, 28036 Madrid</div>
+        <div id="tabs-2"> Futbol Club Barcelona (također poznat i pod nazivom Barcelona ili jednostavnije Barça) je profesionalni nogometni klub smješten u Barceloni (Katalonija).FC Barcelonu je 1899. godine osnovala skupina švicarskih, engleskih i katalonskih nogometaša koju je predvodio Joan Gamper, a klub je postao simbol katalonske kulture i katalonizma uz moto "Više od kluba". Službena himna Barcelone je Cant del Barça autora Jaumea Picasa i Josepa Marije Espinàsa. To je drugi najbogatiji nogometni klub u svijetu s prosječnom zaradom od 398 milijuna Eura. Najveći nogometni rival Barcelone je Real Madrid, a njihove zajedničke utakmice poznate su pod nazivom El Clásico.</div>
+        <div id="tabs-3"> FC Bayern München (njemački: Fußball-Club Bayern München) njemački je nogometni klub iz bavarskog glavnog grada Münchena. Natječe se u 1. njemačkoj Bundesligi, koju je osvojio rekordnih 30 puta, uz jedno prvenstvo Njemačke prije osnivanja Bundeslige, dok je 20 puta osvojio njemački kup. Bayern je također šest puta osvajao naslov prvaka Europe.</div>
+        <div id="tabs-4"> Manchester City Football Club engleski je nogometni klub iz grada Manchestera. Trenutačno igra u engleskoj FA Premier ligi, prvom rangu engleskoga nogometa. Klub je osnovan 1880. godine kao St. Marks (West Gorton), 1887. postaje Ardwick Association Football Club prije nego što je 16. travnja 1894. promijenio ime u Manchester City FC.</div>
+    </div>
+
+    <h2>Najbolji po tebi</h2>
+    <div class="klubovi">
+        <li class="ui-state-default">Real Madrid C.F.</li>
+      <li class="ui-state-default">FC Bayern München</li>
+      <li class="ui-state-default">Manchester City F.C.</li>
+      <li class="ui-state-default ui-state-disabled">FC Barcelona</li>
+    </div>
+<div class="pogodi">
+    <div id="realkrug"><img src="slike/real.png" width="100" height="100"></div>
+    <div id="realpodloga"><img src="slike/real.png"  width="150" height="150"></div>
+
+    <div id="bayernkrug"><img src="slike/bayern.png"  width="100" height="100"></div>
+    <div id="bayernpodloga"><img src="slike/bayern.png" width="150" height="150"></div>
+
+    <div id="mankrug"><img src="slike/mancity.png"  width="100" height="100"></div>
+    <div id="manpodloga"><img src="slike/mancity.png" width="150" height="150"></div>
+
+    <div id="barcakrug"><img src="slike/barca.png"  width="100" height="100"></div>
+    <div id="barcapodloga"><img src="slike/barca.png" width="150" height="150"></div>
+</div>
+    <div id="dialog" title="Basic dialog">
+        <p>Ovo je dialog.</p>
+      </div>
+       
+      <button id="opener">Dialog</button>
+    <script>
+        $(function(){
+            $("#accordion")
+            .tabs({
+                collapsible:true,
+            })
+            .find("ul").sortable();
+
+            $('.klubovi').sortable({
+                items: "li:not(.ui-state-disabled)",
+                placeholder:"boja",
+            });
+        })
+
+        $( "#realkrug" ).draggable({
+            revert:"invalid"
+        }
+        );
+
+        $( "#bayernkrug" ).draggable({
+            revert:"invalid"
+        }
+        );
+
+        $( "#mankrug" ).draggable({
+            revert:"invalid"
+        }
+        );
+
+        $( "#barcakrug" ).draggable({
+            revert:"invalid"
+        }
+        );
+    $( "#realpodloga" ).droppable({
+        accept: "#realkrug",
+    });
+
+    $( "#bayernpodloga" ).droppable({
+        accept: "#bayernkrug",
+    });
+
+    $( "#manpodloga" ).droppable({
+        accept: "#mankrug",
+    });
+
+    $( "#barcapodloga" ).droppable({
+        accept: "#barcakrug",
+    });
+
+    
+    $( function() {
+    $( "#dialog" ).dialog({
+      autoOpen: false,
+      show: {
+        effect: "blind",
+        duration: 1000
+      },
+      hide: {
+        effect: "explode",
+        duration: 1000
+      }
+    });
+ 
+    $( "#opener" ).on( "click", function() {
+      $( "#dialog" ).dialog( "open" );
+    });
+  } );
+
+    </script>
+</body>
+</html>

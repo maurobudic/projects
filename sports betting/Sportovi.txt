@@ -1,0 +1,10 @@
+Nogomet;1
+Boks;2
+Rukomet;3
+Bejzbol;4
+Tenis;5
+Americki nogomet;6
+Ragbi;7
+Kriket;8
+Snooker;9
+Kosarka;10

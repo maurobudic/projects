@@ -1,0 +1,11 @@
+Luka;Modric;Real Madrid;1
+Vinicius;Junior;Real Madrid;2
+Jude;Bellingham;Real Madrid;3
+Arda;Güler;Real Madrid;4
+Brahim;Díaz;Real Madrid;5
+Thibaut;Courtois;Real Madrid;6
+Kepa;Arrizabalaga;Real Madrid;7 
+Mazire;Soula;Cherno More;8
+Ivan;Dyulgerov;Cherno More;9
+Weslen;Junior;Cherno More;10
+Berk;Beyhan;Cherno More;11

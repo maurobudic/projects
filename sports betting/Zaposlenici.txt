@@ -1,0 +1,2 @@
+Ivan;Vidovic;Direktor;1
+Toni;Codnic;Salter;2

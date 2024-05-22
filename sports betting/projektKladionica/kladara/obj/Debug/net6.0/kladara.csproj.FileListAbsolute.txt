@@ -1,0 +1,130 @@
+C:\Users\User\source\repos\kladara\kladara\bin\Debug\net6.0\kladara.exe
+C:\Users\User\source\repos\kladara\kladara\bin\Debug\net6.0\kladara.deps.json
+C:\Users\User\source\repos\kladara\kladara\bin\Debug\net6.0\kladara.runtimeconfig.json
+C:\Users\User\source\repos\kladara\kladara\bin\Debug\net6.0\kladara.dll
+C:\Users\User\source\repos\kladara\kladara\bin\Debug\net6.0\kladara.pdb
+C:\Users\User\source\repos\kladara\kladara\obj\Debug\net6.0\kladara.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\kladara\kladara\obj\Debug\net6.0\kladara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\kladara\kladara\obj\Debug\net6.0\kladara.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\kladara\kladara\obj\Debug\net6.0\kladara.AssemblyInfo.cs
+C:\Users\User\source\repos\kladara\kladara\obj\Debug\net6.0\kladara.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\kladara\kladara\obj\Debug\net6.0\kladara.dll
+C:\Users\User\source\repos\kladara\kladara\obj\Debug\net6.0\refint\kladara.dll
+C:\Users\User\source\repos\kladara\kladara\obj\Debug\net6.0\kladara.pdb
+C:\Users\User\source\repos\kladara\kladara\obj\Debug\net6.0\kladara.genruntimeconfig.cache
+C:\Users\User\source\repos\kladara\kladara\obj\Debug\net6.0\ref\kladara.dll
+C:\Users\Korisnik\Desktop\kladara\kladara\bin\Debug\net6.0\kladara.exe
+C:\Users\Korisnik\Desktop\kladara\kladara\bin\Debug\net6.0\kladara.deps.json
+C:\Users\Korisnik\Desktop\kladara\kladara\bin\Debug\net6.0\kladara.runtimeconfig.json
+C:\Users\Korisnik\Desktop\kladara\kladara\bin\Debug\net6.0\kladara.dll
+C:\Users\Korisnik\Desktop\kladara\kladara\bin\Debug\net6.0\kladara.pdb
+C:\Users\Korisnik\Desktop\kladara\kladara\obj\Debug\net6.0\kladara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\kladara\kladara\obj\Debug\net6.0\kladara.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\kladara\kladara\obj\Debug\net6.0\kladara.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\kladara\kladara\obj\Debug\net6.0\kladara.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\kladara\kladara\obj\Debug\net6.0\kladara.dll
+C:\Users\Korisnik\Desktop\kladara\kladara\obj\Debug\net6.0\refint\kladara.dll
+C:\Users\Korisnik\Desktop\kladara\kladara\obj\Debug\net6.0\kladara.pdb
+C:\Users\Korisnik\Desktop\kladara\kladara\obj\Debug\net6.0\kladara.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\kladara\kladara\obj\Debug\net6.0\ref\kladara.dll
+E:\kladara\kladara\bin\Debug\net6.0\kladara.exe
+E:\kladara\kladara\bin\Debug\net6.0\kladara.deps.json
+E:\kladara\kladara\bin\Debug\net6.0\kladara.runtimeconfig.json
+E:\kladara\kladara\bin\Debug\net6.0\kladara.dll
+E:\kladara\kladara\bin\Debug\net6.0\kladara.pdb
+E:\kladara\kladara\obj\Debug\net6.0\kladara.csproj.AssemblyReference.cache
+E:\kladara\kladara\obj\Debug\net6.0\kladara.GeneratedMSBuildEditorConfig.editorconfig
+E:\kladara\kladara\obj\Debug\net6.0\kladara.AssemblyInfoInputs.cache
+E:\kladara\kladara\obj\Debug\net6.0\kladara.AssemblyInfo.cs
+E:\kladara\kladara\obj\Debug\net6.0\kladara.csproj.CoreCompileInputs.cache
+E:\kladara\kladara\obj\Debug\net6.0\kladara.dll
+E:\kladara\kladara\obj\Debug\net6.0\refint\kladara.dll
+E:\kladara\kladara\obj\Debug\net6.0\kladara.pdb
+E:\kladara\kladara\obj\Debug\net6.0\kladara.genruntimeconfig.cache
+E:\kladara\kladara\obj\Debug\net6.0\ref\kladara.dll
+C:\Users\Korisnik\Desktop\kladara nova\kladara\bin\Debug\net6.0\kladara.exe
+C:\Users\Korisnik\Desktop\kladara nova\kladara\bin\Debug\net6.0\kladara.deps.json
+C:\Users\Korisnik\Desktop\kladara nova\kladara\bin\Debug\net6.0\kladara.runtimeconfig.json
+C:\Users\Korisnik\Desktop\kladara nova\kladara\bin\Debug\net6.0\kladara.dll
+C:\Users\Korisnik\Desktop\kladara nova\kladara\bin\Debug\net6.0\kladara.pdb
+C:\Users\Korisnik\Desktop\kladara nova\kladara\obj\Debug\net6.0\kladara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\kladara nova\kladara\obj\Debug\net6.0\kladara.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\kladara nova\kladara\obj\Debug\net6.0\kladara.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\kladara nova\kladara\obj\Debug\net6.0\kladara.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\kladara nova\kladara\obj\Debug\net6.0\kladara.dll
+C:\Users\Korisnik\Desktop\kladara nova\kladara\obj\Debug\net6.0\refint\kladara.dll
+C:\Users\Korisnik\Desktop\kladara nova\kladara\obj\Debug\net6.0\kladara.pdb
+C:\Users\Korisnik\Desktop\kladara nova\kladara\obj\Debug\net6.0\kladara.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\kladara nova\kladara\obj\Debug\net6.0\ref\kladara.dll
+C:\Users\User\Desktop\Nova\kladara\bin\Debug\net6.0\kladara.exe
+C:\Users\User\Desktop\Nova\kladara\bin\Debug\net6.0\kladara.deps.json
+C:\Users\User\Desktop\Nova\kladara\bin\Debug\net6.0\kladara.runtimeconfig.json
+C:\Users\User\Desktop\Nova\kladara\bin\Debug\net6.0\kladara.dll
+C:\Users\User\Desktop\Nova\kladara\bin\Debug\net6.0\kladara.pdb
+C:\Users\User\Desktop\Nova\kladara\obj\Debug\net6.0\kladara.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nova\kladara\obj\Debug\net6.0\kladara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Nova\kladara\obj\Debug\net6.0\kladara.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Nova\kladara\obj\Debug\net6.0\kladara.AssemblyInfo.cs
+C:\Users\User\Desktop\Nova\kladara\obj\Debug\net6.0\kladara.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nova\kladara\obj\Debug\net6.0\kladara.dll
+C:\Users\User\Desktop\Nova\kladara\obj\Debug\net6.0\refint\kladara.dll
+C:\Users\User\Desktop\Nova\kladara\obj\Debug\net6.0\kladara.pdb
+C:\Users\User\Desktop\Nova\kladara\obj\Debug\net6.0\kladara.genruntimeconfig.cache
+C:\Users\User\Desktop\Nova\kladara\obj\Debug\net6.0\ref\kladara.dll
+C:\Users\Korisnik\Desktop\Nova iz sk\kladara\bin\Debug\net6.0\kladara.exe
+C:\Users\Korisnik\Desktop\Nova iz sk\kladara\bin\Debug\net6.0\kladara.deps.json
+C:\Users\Korisnik\Desktop\Nova iz sk\kladara\bin\Debug\net6.0\kladara.runtimeconfig.json
+C:\Users\Korisnik\Desktop\Nova iz sk\kladara\bin\Debug\net6.0\kladara.dll
+C:\Users\Korisnik\Desktop\Nova iz sk\kladara\bin\Debug\net6.0\kladara.pdb
+C:\Users\Korisnik\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\kladara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\kladara.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\kladara.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\kladara.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\kladara.dll
+C:\Users\Korisnik\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\refint\kladara.dll
+C:\Users\Korisnik\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\kladara.pdb
+C:\Users\Korisnik\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\kladara.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\ref\kladara.dll
+C:\Users\User\Desktop\Nova iz sk\kladara\bin\Debug\net6.0\kladara.exe
+C:\Users\User\Desktop\Nova iz sk\kladara\bin\Debug\net6.0\kladara.deps.json
+C:\Users\User\Desktop\Nova iz sk\kladara\bin\Debug\net6.0\kladara.runtimeconfig.json
+C:\Users\User\Desktop\Nova iz sk\kladara\bin\Debug\net6.0\kladara.dll
+C:\Users\User\Desktop\Nova iz sk\kladara\bin\Debug\net6.0\kladara.pdb
+C:\Users\User\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\kladara.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\kladara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\kladara.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\kladara.AssemblyInfo.cs
+C:\Users\User\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\kladara.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\kladara.dll
+C:\Users\User\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\refint\kladara.dll
+C:\Users\User\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\kladara.pdb
+C:\Users\User\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\kladara.genruntimeconfig.cache
+C:\Users\User\Desktop\Nova iz sk\kladara\obj\Debug\net6.0\ref\kladara.dll
+C:\Users\Korisnik\Desktop\Nova iz sk2\kladara\bin\Debug\net6.0\kladara.exe
+C:\Users\Korisnik\Desktop\Nova iz sk2\kladara\bin\Debug\net6.0\kladara.deps.json
+C:\Users\Korisnik\Desktop\Nova iz sk2\kladara\bin\Debug\net6.0\kladara.runtimeconfig.json
+C:\Users\Korisnik\Desktop\Nova iz sk2\kladara\bin\Debug\net6.0\kladara.dll
+C:\Users\Korisnik\Desktop\Nova iz sk2\kladara\bin\Debug\net6.0\kladara.pdb
+C:\Users\Korisnik\Desktop\Nova iz sk2\kladara\obj\Debug\net6.0\kladara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\Nova iz sk2\kladara\obj\Debug\net6.0\kladara.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Nova iz sk2\kladara\obj\Debug\net6.0\kladara.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Nova iz sk2\kladara\obj\Debug\net6.0\kladara.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Nova iz sk2\kladara\obj\Debug\net6.0\kladara.dll
+C:\Users\Korisnik\Desktop\Nova iz sk2\kladara\obj\Debug\net6.0\refint\kladara.dll
+C:\Users\Korisnik\Desktop\Nova iz sk2\kladara\obj\Debug\net6.0\kladara.pdb
+C:\Users\Korisnik\Desktop\Nova iz sk2\kladara\obj\Debug\net6.0\kladara.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\Nova iz sk2\kladara\obj\Debug\net6.0\ref\kladara.dll
+C:\Users\Korisnik\Desktop\Mauro Budic\projektKladionica\kladara\bin\Debug\net6.0\kladara.exe
+C:\Users\Korisnik\Desktop\Mauro Budic\projektKladionica\kladara\bin\Debug\net6.0\kladara.deps.json
+C:\Users\Korisnik\Desktop\Mauro Budic\projektKladionica\kladara\bin\Debug\net6.0\kladara.runtimeconfig.json
+C:\Users\Korisnik\Desktop\Mauro Budic\projektKladionica\kladara\bin\Debug\net6.0\kladara.dll
+C:\Users\Korisnik\Desktop\Mauro Budic\projektKladionica\kladara\bin\Debug\net6.0\kladara.pdb
+C:\Users\Korisnik\Desktop\Mauro Budic\projektKladionica\kladara\obj\Debug\net6.0\kladara.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\Desktop\Mauro Budic\projektKladionica\kladara\obj\Debug\net6.0\kladara.AssemblyInfoInputs.cache
+C:\Users\Korisnik\Desktop\Mauro Budic\projektKladionica\kladara\obj\Debug\net6.0\kladara.AssemblyInfo.cs
+C:\Users\Korisnik\Desktop\Mauro Budic\projektKladionica\kladara\obj\Debug\net6.0\kladara.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\Desktop\Mauro Budic\projektKladionica\kladara\obj\Debug\net6.0\kladara.dll
+C:\Users\Korisnik\Desktop\Mauro Budic\projektKladionica\kladara\obj\Debug\net6.0\refint\kladara.dll
+C:\Users\Korisnik\Desktop\Mauro Budic\projektKladionica\kladara\obj\Debug\net6.0\kladara.pdb
+C:\Users\Korisnik\Desktop\Mauro Budic\projektKladionica\kladara\obj\Debug\net6.0\kladara.genruntimeconfig.cache
+C:\Users\Korisnik\Desktop\Mauro Budic\projektKladionica\kladara\obj\Debug\net6.0\ref\kladara.dll
